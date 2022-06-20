@@ -1,0 +1,10 @@
+/__pycache__/
+*.css
+*.ui 
+*.zip
+test.py
+/dist
+/build
+*.spec
+*.ico
+uiText.py
